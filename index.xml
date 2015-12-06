@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zukunft jetzt.</title>
-    <link>https://ffimsl.github.io/</link>
+    <link>https://beta.infrastruktur.ms/</link>
     <description>Recent content on Zukunft jetzt.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://ffimsl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beta.infrastruktur.ms/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
