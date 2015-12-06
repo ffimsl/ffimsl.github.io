@@ -871,6 +871,7 @@ body {
 canvas {
   display: block;
   vertical-align: bottom;
+  /* pointer-events: none; */
 }
 /* ---- particles.js container ---- */
 
